@@ -10,6 +10,6 @@ app.get('/', routes.index);
 app.get('/about', routes.unsubscribe.index);
 
 app.listen(3000, function () {
-  console.log("Ntalkno ar.");
+  console.log("Ntalk no ar.");
 });
 
